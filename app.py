@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Tables in postgresql DBs are : "
+    return "A Sample Web page for testing Aptible"
 
 
 
